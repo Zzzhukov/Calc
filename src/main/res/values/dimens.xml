@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">12sp</dimen>
+    <dimen name="x1">110dp</dimen>
+    <dimen name="y1">20dp</dimen>
+    <dimen name="x2">220dp</dimen>
+    <dimen name="y2">40dp</dimen>
+    <dimen name="x3">1.0</dimen>
+    <dimen name="y3">0.32</dimen>
+    <dimen name="y3_2">0.398</dimen>
+    <dimen name="x4">28dp</dimen>
+    <dimen name="y4">236dp</dimen>
+    <dimen name="v1">0.326</dimen>
+    <dimen name="v2">0.403</dimen>
+    <dimen name="x5">300dp</dimen>
+    <dimen name="y5">50dp</dimen>
+    <dimen name="v3">0.487</dimen>
+    <dimen name="x6">0.498</dimen>
+    <dimen name="y6">0.839</dimen>
+    <dimen name="x7">28dp</dimen>
+    <dimen name="y7">520dp</dimen>
+    <dimen name="v4">0.445</dimen>
+    <dimen name="v5">0.567</dimen>
+    <dimen name="x8">0.499</dimen>
+    <dimen name="y8">0.442</dimen>
+    <dimen name="y8_2">0.568</dimen>
+</resources>
